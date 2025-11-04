@@ -1,4 +1,0 @@
-/home/azhar/azhar/Midterm/frontend/android/app/.cxx/Debug/j5k1v156/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
-/home/azhar/azhar/Midterm/frontend/android/app/.cxx/Debug/j5k1v156/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
-/home/azhar/azhar/Midterm/frontend/android/app/.cxx/Debug/j5k1v156/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
-/home/azhar/azhar/Midterm/frontend/android/app/.cxx/Debug/j5k1v156/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir
