@@ -1,0 +1,5 @@
+/home/azhar/Android/Sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /home/azhar/azhar/Midterm/frontend/android/app/.cxx/Debug/j5k1v156/x86_64 \
+  appmodules \
+  react_codegen_safeareacontext
