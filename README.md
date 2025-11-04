@@ -1,4 +1,4 @@
-# Coffee Shop App 
+# Coffee Shop App
 
 This is a **React Native app** built using **React Native CLI**. It's a simple coffee shop app where you can check the menu and see what’s available. Perfect for practicing your mobile app skills!
 
@@ -18,7 +18,27 @@ Midterm/
 
 ---
 
-## Step 1: Run the Backend
+## Step 1: Install Dependencies
+
+Before running anything, make sure to install dependencies for both backend and frontend.
+
+### Backend
+
+```sh
+cd Midterm/backend
+npm install
+```
+
+### Frontend
+
+```sh
+cd Midterm/frontend
+npm install
+```
+
+---
+
+## Step 2: Run the Backend
 
 Navigate to your backend folder and start the server:
 
@@ -31,7 +51,7 @@ This will start your backend server (APIs, database connection, etc.).
 
 ---
 
-## Step 2: Run the Frontend (React Native App)
+## Step 3: Run the Frontend (React Native App)
 
 ### Start Metro (JavaScript bundler)
 
@@ -58,7 +78,7 @@ Your app will build and launch on the Android Emulator or connected device.
 
 ---
 
-## Step 3: Explore the App
+## Step 4: Explore the App
 
 * Open `App.tsx` in `Midterm/frontend` to make changes.
 * Check the coffee shop menu. ☕️
